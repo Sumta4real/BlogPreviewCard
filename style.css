@@ -5,8 +5,7 @@ body{
     align-items: center;
     justify-content: center;
 }
-
-.preview{
+.card-container{
     height: 522px;
     width:  384px;
     background-color: hsl(0, 0%, 100%);
