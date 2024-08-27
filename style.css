@@ -37,3 +37,6 @@ p{
 #title{
     font-weight: 800;
 }
+#description{
+    color: hsl(0, 0%, 42%);
+}
