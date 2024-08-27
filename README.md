@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Sumta4real/QR-CodeProject/)
-- Live Site URL: (https://qr-code-project-2.vercel.app/)
+- Solution URL: (https://github.com/Sumta4real/BlogPreviewCard)
+- Live Site URL: (https://blog-preview-card-ashen.vercel.app/)
 
 ### Built with
 
