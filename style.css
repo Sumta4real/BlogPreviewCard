@@ -31,3 +31,6 @@ p{
     width: fit-content;
     font-weight: 800;
 }
+#published{
+    font-weight: 500;
+}
